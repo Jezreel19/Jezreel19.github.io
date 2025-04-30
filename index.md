@@ -1,4 +1,4 @@
-#Hello World
+# Jezreel's Portfolio
 
 This is my home page! My name is Jezreel and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
